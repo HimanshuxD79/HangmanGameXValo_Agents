@@ -144,7 +144,7 @@ void displayman(int remainingGuess)
     case 0:
         part[3] = "|";
     case 1:
-        part[2] = "/|\\";
+        part[2] = "/ \\";
     case 2:
         part[1] = "/|\\";
     case 3:
